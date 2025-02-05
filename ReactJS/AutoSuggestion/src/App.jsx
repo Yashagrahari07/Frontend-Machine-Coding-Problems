@@ -4,6 +4,7 @@ function App() {
   return (
     <>
       <h1>AutoComplete / Typeahead</h1>
+      <AutoComplete />
     </>
   );
 }
